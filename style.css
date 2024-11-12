@@ -1,0 +1,33 @@
+* {
+	margin: 0%;
+	padding: 0%;
+}
+h4 {
+	text-align: center;
+	color: #FFFFFF;
+}
+th {
+	text-align: center;
+}
+img {
+	width: 90%;
+}
+.footer {
+	text-align: center;
+	color: #FFFFFF;
+}
+td {
+	vertical-align: middle;
+	text-align: center;
+}
+body {
+	background-image: url(https://deih43ym53wif.cloudfront.net/large_coron-palawan-philippines-shutterstock_329793749_e5794636b7.jpeg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.logo {
+	width: 20%;
+}
+h1 {
+	text-align: center;
+}
